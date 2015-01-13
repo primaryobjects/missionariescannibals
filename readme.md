@@ -1,7 +1,7 @@
 Missionaries and Cannibals in R
 =========
 
-Solves the classic Missionaries and Cannibals AI problem using the R programming language. See http://www.aiai.ed.ac.uk/~gwickler/missionaries.html
+Solves the classic Missionaries and Cannibals artificial intelligence problem using the R programming language. Why not? See http://www.aiai.ed.ac.uk/~gwickler/missionaries.html
 
 Rules
 ---
