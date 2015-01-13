@@ -6,7 +6,7 @@ Solves the classic Missionaries and Cannibals artificial intelligence problem us
 Rules
 ---
 
-On one bank of a river are three missionaries and three cannibals. There is one boat available that can hold up to two people and that they would like to use to cross the river. If the cannibals ever outnumber the missionaries on either of the river’s banks, the missionaries will get eaten. How can the boat be used to safely carry all the missionaries and cannibals across the river?
+On the bank of a river are three missionaries and three cannibals. They're late for dinner and need to get to the other side. There is one boat available that can hold up to two people. If the cannibals ever outnumber the missionaries on either of the river’s banks, the missionaries will get eaten. How can the boat be used to safely carry all the missionaries and cannibals across the river?
 
 Running It
 ---
