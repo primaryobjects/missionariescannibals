@@ -1,6 +1,6 @@
-Missionaries and Cannibals in R
+Missionaries and Cannibals
 =========
-### by Kory Becker 2015 http://primaryobjects.com/kory-becker
+### in R
 
 This program solves the Missionaries and Cannibals AI problem. See http://www.aiai.ed.ac.uk/~gwickler/missionaries.html
 
